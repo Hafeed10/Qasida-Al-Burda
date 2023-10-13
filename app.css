@@ -582,11 +582,13 @@ text-align: start;
   }
   .time p{
     font-size: 16px;
-    text-align:start;
+    /* text-align:start; */
+    line-height: 30px;
   }
   .bottom p{
     font-size: 16px;
-    text-align:center;
+    /* text-align:center; */
+    line-height: 30px;
   }
   .bottom p{
     text-align: start;
@@ -628,10 +630,12 @@ text-align: start;
   .time p{
     font-size: 16px;
     text-align:start;
+    line-height: 30px;
   }
   .bottom p{
     font-size: 16px;
-    text-align:center;
+    text-align:start;
+    line-height: 30px;
   }
   .bottom p{
     text-align: start;
