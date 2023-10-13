@@ -506,6 +506,9 @@ text-align: start;
     padding: 10px;
   
 }
+.center{
+  height: 120vh;
+}
 }
 @media (max-width: 620px) {
   .content h1 {
@@ -528,6 +531,7 @@ text-align: start;
     /* padding: 10px; */
     
   }
+  
   .bottom p{
     text-align: start;
   }
@@ -590,6 +594,9 @@ text-align: start;
   .time p{
     text-align: start;
   }
+  .content{
+    height: 100vh;
+  }
 }
 @media (max-width: 375px) {
   .section-text span{
@@ -626,6 +633,9 @@ text-align: start;
   }
   .time p{
     text-align: start;
+  }
+  .content{
+    height: 100vh;
   }
 }
    
