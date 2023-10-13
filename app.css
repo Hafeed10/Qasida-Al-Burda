@@ -330,6 +330,9 @@ text-align: start;
   text-align:center;
   padding: 20px;
 }
+.bottom{
+  background-color: #f9f7ff;
+}
 .bottom h3{
   font-size: 20px;
   padding:20px;
