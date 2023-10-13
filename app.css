@@ -598,6 +598,11 @@ text-align: start;
     height: 100vh;
   }
 }
+@media (max-width: 400px) {
+  .center{
+    height: 100vh;
+  }
+}
 @media (max-width: 375px) {
   .section-text span{
     font-size: 11px;
