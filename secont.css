@@ -75,3 +75,10 @@
    
   }
 }
+
+@media all and (max-width:319px){
+  .output{
+    padding: 1.7rem 1rem;
+  }
+
+}
