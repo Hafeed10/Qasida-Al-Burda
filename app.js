@@ -9,7 +9,7 @@ window.addEventListener("load", function () {
     // When the page has fully loaded
     loader.style.display = "none"; // Hide the loading container
         setTimeout.show();
-    },10000);
+    },1000);
 
    
  
