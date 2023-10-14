@@ -380,8 +380,8 @@ header.shadow a{
 /* ============================================================ */
 
 #preloader{
-  background: #1c1a1a url('imag/3c61734e7bd00a017ff3b8f3c01d7e96.gif') no-repeat center center;
-  background-size: 15%;
+  background: #050000 url('imag/gradient-circle-loading.gif.crdownload') no-repeat center center;
+  background-size: 25%;
   height: 100vh;
   width: 100%;
   position: fixed;
