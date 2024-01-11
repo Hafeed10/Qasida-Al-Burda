@@ -10,9 +10,7 @@ body {
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
 }
-.pop{
-  background: rgb(30, 30, 30);
-}
+
 header {
   position: fixed;
   top: 0;
@@ -201,6 +199,7 @@ header.shadow a{
 }
 .background-video {
   position: absolute;
+  backdrop-filter: blur(8rem);
   cursor:pointer;
   opacity:0.5;
   right: 0;
@@ -380,8 +379,8 @@ header.shadow a{
 /* ============================================================ */
 
 #preloader{
-  background: #050000 url('imag/gradient-circle-loading.gif') no-repeat center center;
-  background-size: 25%;
+  background: #050000  url('imag/7a8f8d634013568124e130728834d47a.webp') no-repeat center center;
+  background-size: 35%;
   height: 100vh;
   width: 100%;
   position: fixed;
@@ -402,7 +401,7 @@ ul{
   list-style: none;
 }
 .footer{
-  background-color: #24262b;
+  background-color: #f5f0f0;
     padding: 70px 0;
 }
 .footer-col{
@@ -411,7 +410,7 @@ ul{
 }
 .footer-col h4{
   font-size: 18px;
-  color: #ffffff;
+  color: #171616;
   text-transform: capitalize;
   margin-bottom: 35px;
   font-weight: 500;
@@ -433,32 +432,32 @@ ul{
 .footer-col ul li a{
   font-size: 16px;
   text-transform: capitalize;
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
   font-weight: 300;
-  color: #bbbbbb;
+  color: #040538;
   display: block;
   transition: all 0.3s ease;
 }
 .footer-col ul li a:hover{
-  color: #ffffff;
-  padding-left: 8px;
+  color: #302b2b;
+  padding-left: 9px;
 }
 .footer-col .social-links a{
   display: inline-block;
   height: 40px;
   width: 40px;
-  background-color: rgba(255,255,255,0.2);
+  background-color: rgba(37, 35, 35, 0.2);
   margin:0 10px 10px 0;
   text-align: center;
   line-height: 40px;
   border-radius: 50%;
-  color: #ffffff;
+  color: #030303;
   transition: all 0.5s ease;
 }
 .footer-col .social-links a:hover{
-  color: #24262b;
-  background-color: #ffffff;
+  color: #f5eeee;
+  background-color: #141212;
 }
 
 

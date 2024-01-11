@@ -11,11 +11,20 @@ window.addEventListener("load", function () {
         setTimeout.show();
     },1000);
 
+    // let button1 = document.getElementById("Chapters_1")
+    // button1.click(function(){
+    //     Chapters_1;
+    // })
+    // function functionName(){
+    //     window.open("");
+    //     }
    
- 
+      
 //   $(window).on('load',function(){
 // 	setTimeout(function(){ // allowing 3 secs to fade out loader
 // 	$('.preloader').fadeOut('slow');
 //     $(".loader").style.display = "none"
 // 	},1500);
 // });
+
+// Params
